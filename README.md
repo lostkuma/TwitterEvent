@@ -1,9 +1,9 @@
 # TwitterEvent
 
-
+Event vs. NumTweets from 2012 to 2016
 ![Event vs. NumTweets from 2012 to 2016](https://github.com/lostkuma/TwitterEvent/blob/master/event_vs_numTweets.png)
 
-Event Labels
+Event Labels  
 0 - 2015: Paris Attacks (November 13-24)  
 1 - 2015: Charlie Hebdo shooting (January 7-14)  
 2 - 2012: Hurricane Sandy (October 25-November 5)  
