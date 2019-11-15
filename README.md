@@ -1,7 +1,7 @@
 # TwitterEvent
 
 Event vs. NumTweets from 2012 to 2016  
-![Event vs. NumTweets from 2012 to 2016](https://github.com/lostkuma/TwitterEvent/blob/master/event_vs_numTweets.png)  
+![Event vs. NumTweets from 2012 to 2016](https://github.com/lostkuma/TwitterEvent/blob/master/num_tweets_events.png)  
 
 Event Labels  
 0 - 2015: Paris Attacks (November 13-24)  
