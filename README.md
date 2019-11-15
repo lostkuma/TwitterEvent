@@ -1,6 +1,8 @@
 # TwitterEvent
 
-## [Overall Dataseet stats](https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460)
+### Overall Dataseet stats
+[Twitter Event ID Data From 2012 to 2016](https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460)  
+  
 Event vs. NumTweets from 2012 to 2016
 ![Event vs. NumTweets from 2012 to 2016](https://github.com/lostkuma/TwitterEvent/blob/master/num_tweets_events.png)  
 
@@ -36,6 +38,6 @@ Event Labels
 28 - 2014: Typhoon Hagupit (December 5-11)  
 29 - 2012: Mexican election (July 1-3)  
 
-## Language Stats for 1.7M fetched 2015 Paris Attack Dataset
+### Language Stats for 1.7M fetched 2015 Paris Attack Dataset
 2015: Paris Attacks Lang Stats 1.7M Tweets  
 ![2015: Paris Attacks Lang Stats 1.7M Tweets](https://github.com/lostkuma/TwitterEvent/blob/master/num_tweet_in_lang.png)
