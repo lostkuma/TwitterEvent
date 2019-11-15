@@ -18,10 +18,10 @@ flags.DEFINE_integer('output_tweets_file_size', 1000, 'Number of tweets per outp
 flags.DEFINE_integer('rate_limit', 1, 'Maximum fetches per second.')
 
 
-CONSUMER_KEY = '2ttA45c8NCnOh0ETjdpL9T5Cf'
-CONSUMER_SECRET = 'YBU0Pu7D2STdWnIz24KcepEBtlT9eEKwqrAI6T6Hx8z9El9CsO'
-OAUTH_TOKEN = '366378794-4t6fC6q9izhJAeYJnSZ4JLRFuwEPufoxhDykk0bg'
-OAUTH_TOKEN_SECRET = 'lylzGfiAbeZ6tKN0noRYWaTeKbUrzJUAaxBG6tqid4Lcn'
+CONSUMER_KEY = 'hidden'
+CONSUMER_SECRET = 'hidden'
+OAUTH_TOKEN = 'hidden'
+OAUTH_TOKEN_SECRET = 'hidden'
 
 
 def GetNextBasename(directory):
