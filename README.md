@@ -1,5 +1,6 @@
 # TwitterEvent
 
+## [Overall Dataseet stats](https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460)
 Event vs. NumTweets from 2012 to 2016
 ![Event vs. NumTweets from 2012 to 2016](https://github.com/lostkuma/TwitterEvent/blob/master/num_tweets_events.png)  
 
