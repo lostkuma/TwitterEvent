@@ -34,3 +34,7 @@ Event Labels
 27 - 2016: Cyprus hijacked plane (March 29-30)  
 28 - 2014: Typhoon Hagupit (December 5-11)  
 29 - 2012: Mexican election (July 1-3)  
+
+## Language Stats for 1.7M fetched 2015 Paris Attack Dataset
+2015: Paris Attacks Lang Stats 1.7M Tweets  
+![2015: Paris Attacks Lang Stats 1.7M Tweets](https://github.com/lostkuma/TwitterEvent/blob/master/num_tweet_in_lang.png)
